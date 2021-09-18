@@ -3,13 +3,14 @@
 <h1>3page</h1>
 *menu
 -<a href="https://itou332.github.io/">1page</a>
--<a href="C:\Users\user\Documents\GitHub\itou332a.github.io\index.html">2page</a>
+-<a href="https://itou332a.github.io\index.html">2page</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
 -<a href="http://itou33good.starfree.jp/?page_id=234">免責事項</a>
 <hr>
 </hedar>
 <body>
 -絵を記録します。
+<br>
 
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
