@@ -2,6 +2,7 @@
 <link rel="stylesheet" href="style.css">
 <h1>3page</h1>
 *menu
+-<a href="https://github.com/itou332">my github</a>
 -<a href="https://itou332.github.io/">1page</a>
 -<a href="C:\Users\user\Documents\GitHub\itou332a.github.io\index.html">2page</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
@@ -9,7 +10,7 @@
 <hr>
 </hedar>
 <body>
--絵を記録します。
+<p>-絵を記録します。</p>
 
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
@@ -2567,7 +2568,7 @@
 
 </body>
 <footer>
--<a href="https://itou332.github.io/">1page</a>
+<a href="https://itou332.github.io/">1page</a>
 -<a href="https://itou332a.github.io/">2page</a>
   <svg xmlns="http://www.w3.org/2000/svg" width="200" height="250">
                 <text x="0" y="30" transform="rotate(45 40,40)">
