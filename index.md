@@ -9,6 +9,219 @@
 -<a href="http://itou33good.starfree.jp/?page_id=234">免責事項</a>
 <hr>
 </hedar>
+<head>
+<meta name=”description” content=” <svg
+   width="109.23363mm"
+   height="109.23363mm"
+   viewBox="0 0 109.23363 109.23363"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="hauisimi-1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.3932941"
+     inkscape:cx="205.26895"
+     inkscape:cy="207.42212"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2872">
+      <stop
+         style="stop-color:#5599ff;stop-opacity:1"
+         offset="0"
+         id="stop2868" />
+      <stop
+         style="stop-color:#d5f6ff;stop-opacity:1"
+         offset="1"
+         id="stop2870" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1444"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#00ff00;stop-opacity:1;"
+         offset="0"
+         id="stop1442" />
+    </linearGradient>
+    <filter
+       inkscape:label="Wax Print"
+       inkscape:menu="Textures"
+       inkscape:menu-tooltip="Wax print on tissue texture"
+       style="color-interpolation-filters:sRGB"
+       id="filter2130"
+       x="-0.14095683"
+       y="-0.14095683"
+       width="1.2819138"
+       height="1.2819138">
+      <feGaussianBlur
+         result="result6"
+         stdDeviation="0.32821355"
+         in="SourceGraphic"
+         id="feGaussianBlur2124" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result7"
+         in="SourceGraphic"
+         id="feColorMatrix2126" />
+      <feComposite
+         operator="in"
+         in="result6"
+         in2="result7"
+         id="feComposite2128"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix2150" />
+      <feGaussianBlur
+         id="feGaussianBlur2152"
+         result="result1"
+         in="fbSourceGraphic"
+         stdDeviation="2" />
+      <feTurbulence
+         id="feTurbulence2154"
+         result="result0"
+         numOctaves="5"
+         baseFrequency="0.05"
+         type="fractalNoise" />
+      <feDisplacementMap
+         in2="result0"
+         id="feDisplacementMap2156"
+         result="result2"
+         scale="10"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="result1" />
+      <feColorMatrix
+         id="feColorMatrix2158"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 10 0 "
+         result="result3" />
+      <feBlend
+         in2="result3"
+         id="feBlend2160"
+         mode="multiply"
+         in="result2"
+         result="result5" />
+      <feGaussianBlur
+         id="feGaussianBlur2162"
+         result="result4"
+         in="result3"
+         stdDeviation="5" />
+      <feComposite
+         in2="result5"
+         id="feComposite2164"
+         k1="0.5"
+         k3="1.5"
+         k2="0.15"
+         in="result4"
+         operator="arithmetic"
+         result="result6"
+         k4="0" />
+      <feComposite
+         in2="result4"
+         id="feComposite2166"
+         operator="in"
+         in="result6" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2872"
+       id="linearGradient2874"
+       x1="161.03325"
+       y1="113.17902"
+       x2="212.65689"
+       y2="230.8748"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:menu-tooltip="Partly opaque water color effect with bleed"
+       inkscape:menu="Textures"
+       inkscape:label="Gouache"
+       style="color-interpolation-filters:sRGB"
+       id="filter5042"
+       x="-0.072036938"
+       y="-0.072036938"
+       width="1.1440739"
+       height="1.1440739">
+      <feGaussianBlur
+         stdDeviation="3"
+         result="result5"
+         in="SourceGraphic"
+         id="feGaussianBlur5030" />
+      <feTurbulence
+         result="result1"
+         baseFrequency="0.02"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="3"
+         id="feTurbulence5032" />
+      <feDisplacementMap
+         result="result3"
+         in2="result1"
+         in="SourceGraphic"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         id="feDisplacementMap5034" />
+      <feComposite
+         result="result4"
+         in="result3"
+         in2="result1"
+         operator="out"
+         id="feComposite5036" />
+      <feComposite
+         result="result6"
+         operator="arithmetic"
+         k2="1"
+         k1="0.3"
+         k3="0.3"
+         in2="result4"
+         id="feComposite5038"
+         k4="0" />
+      <feComposite
+         in2="result5"
+         in="result6"
+         operator="over"
+         id="feComposite5040" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-52.67538,-112.30327)">
+    <circle
+       style="opacity:0.895105;fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient2874);stroke-width:0.264583;filter:url(#filter5042)"
+       id="path2764"
+       cx="110.90025"
+       cy="163.31203"
+       r="50.892582"
+       transform="matrix(0.93803239,0,0,0.93803239,3.2641675,13.728112)" />
+  </g>
+</svg>
+隣に芝生は無い。＝the grass is always greener on the other side.
+</head>
 <body>
 <p>-絵を記録します。</p>
 
