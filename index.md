@@ -20,7 +20,7 @@ lang: ja_JP
 <head>
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<link rel="icon" href="img/favicon.svg" type=aoihata.svg"/svg+xml">
+<link rel="icon" type="img/x-icon" href="./favicon.png">
 <body>
 <hr>
 <h2>-絵を記録します。</h2>
