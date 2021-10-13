@@ -1,11 +1,10 @@
 ---
 layout: default
-title: 私の絵の記録　第3項
-description: PCで描いた絵をここに記録します。
+title: 私の絵の記録　第3項/My painting record, paragraph 3.
+description: PCで描いた絵をここに記録します。This item is a note for new ideas.
 lang: ja_JP
 ---
 <hedar>
-<link rel="stylesheet" href="style.css">
 <h1>3項目</h1>
 <p>
 *献立
@@ -18,9 +17,11 @@ lang: ja_JP
 </p>
 </hedar>
 <head>
+<link rel="stylesheet" href="style.css">
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <link rel="icon" type="img/x-icon" href="./favicon.png">
+<meta name="keywords" content="記録,My painting record,第３項">
 <body>
 <hr>
 <h2>-絵を記録します。</h2>
