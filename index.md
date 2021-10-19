@@ -24,7 +24,7 @@ lang: ja_JP
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-REM6WSLP19');
+  gtag('config', 'G-FF91Z8PT3J');
 </script>
 <link rel="stylesheet" href="style.css">
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
