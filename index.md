@@ -11,7 +11,7 @@ lang: ja_JP
 -<a href="https://itou332.github.io/diary">1項目</a>
 -<a href="https://itou332.github.io/itou332a.github.io/">2項目</a>
 -<a href="https://itou332.github.io/today/">4項目</a>
--<a href="http://itou33good.starfree.jp/?page_id=234">免責事項</a>
+-<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
 </p>
@@ -38,7 +38,7 @@ lang: ja_JP
 <hr>
 <h2>-絵を記録します。</h2>
 
-<p>2021.9</p>
+<h3>2021.9</h3>
 
 <svg
    width="130.29405mm"
@@ -457,7 +457,7 @@ lang: ja_JP
   </g>
 </svg>
 
-<p>2021.9/24</p>
+<h3>2021.9/24</h3>
 
 <svg
  width="377.454945"
@@ -3941,7 +3941,7 @@ lang: ja_JP
   </g>
 </svg>
 
-<p>2021.9/29</p>
+<h3>2021.9/29</h3>
 
 <svg
    width="90mm"
@@ -16843,7 +16843,7 @@ xS9+8S+L//0f/+vf/h/r2/mFKz0jGAAAAABJRU5ErkJggg==
   </g>
 </svg>
 
-<p>2021.10/2</p>
+<h3>2021.10/2</h3>
 
 <svg
    width="150.44044mm"
@@ -19259,7 +19259,7 @@ xS9+8S+L//0f/+vf/h/r2/mFKz0jGAAAAABJRU5ErkJggg==
   </g>
 </svg>
 
-<p>2021.10/3</p>
+<h3>2021.10/3</h3>
 
 <svg
    width="85.622mm"
@@ -19415,7 +19415,7 @@ xS9+8S+L//0f/+vf/h/r2/mFKz0jGAAAAABJRU5ErkJggg==
   </g>
 </svg>
 
-<p>2021.10/5</p>
+<h3>2021.10/5</h3>
 
 <svg
    width="101.2057mm"
