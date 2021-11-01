@@ -8,6 +8,7 @@ lang: ja_JP
 <h1>3項目</h1>
 <p>
 *献立
+-<a href="https://itou332.github.io/top_page/">主項目</a>
 -<a href="https://itou332.github.io/diary">1項目</a>
 -<a href="https://itou332.github.io/itou332a.github.io/">2項目</a>
 -<a href="https://itou332.github.io/today/">4項目</a>
@@ -20204,6 +20205,7 @@ xS9+8S+L//0f/+vf/h/r2/mFKz0jGAAAAABJRU5ErkJggg==
 </body>
 <footer>
 *献立
+-<a href="https://itou332.github.io/top_page/">主項目</a>
 -<a href="https://itou332.github.io/itou332a.github.io/">2項目</a>
 -<a href="https://itou332.github.io/diary">3項目</a>
 -<a href="https://itou332.github.io/today/">4項目</a>
