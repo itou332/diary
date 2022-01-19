@@ -45,8 +45,8 @@ lang: ja_JP
 <h3>2021.9</h3>
 
 <svg
-   width="130.29405mm"
-   height="130.29405mm"
+   width="100.29405mm"
+   height="100.29405mm"
    viewBox="0 0 130.29405 130.29405"
    version="1.1"
    id="svg5"
@@ -20209,14 +20209,15 @@ xS9+8S+L//0f/+vf/h/r2/mFKz0jGAAAAABJRU5ErkJggg==
 <footer>
 *献立
 -<a href="https://itou332.github.io/top_page/">主項目</a>
+-<a href="https://itou332.github.io/diary">1項目</a>
 -<a href="https://itou332.github.io/itou332a.github.io/">2項目</a>
--<a href="https://itou332.github.io/diary">3項目</a>
 -<a href="https://itou332.github.io/today/">4項目</a>
 -<a href="https://itou332.github.io/challenge/">5項目</a>
 -<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
-  <svg xmlns="http://www.w3.org/2000/svg" width="200" height="250">
+
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="250">
                 <text x="0" y="30" transform="rotate(45 40,40)">
                   © 2021 itou Inc.
                 </text>
