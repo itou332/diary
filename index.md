@@ -13,9 +13,10 @@ lang: ja_JP
 <h1>3項目</h1>
 <p>
 *献立
--<a href="https://itou332.github.io/top_page/">主項目</a>
--<a href="https://itou332.github.io/diary">1項目</a>
+-<a href="https://itou332.github.io/top-page/">主項目</a>
+-<a href="https://itou332.github.io/">1項目</a>
 -<a href="https://itou332.github.io/itou332a.github.io/">2項目</a>
+-<a href="https://itou332.github.io/diary">3項目</a>
 -<a href="https://itou332.github.io/today/">4項目</a>
 -<a href="https://itou332.github.io/challenge/">5項目</a>
 -<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
@@ -20213,15 +20214,18 @@ xS9+8S+L//0f/+vf/h/r2/mFKz0jGAAAAABJRU5ErkJggg==
 
 </body>
 <footer>
+<p>
 *献立
--<a href="https://itou332.github.io/top_page/">主項目</a>
--<a href="https://itou332.github.io/diary">1項目</a>
+-<a href="https://itou332.github.io/top-page/">主項目</a>
+-<a href="https://itou332.github.io/">1項目</a>
 -<a href="https://itou332.github.io/itou332a.github.io/">2項目</a>
+-<a href="https://itou332.github.io/diary">3項目</a>
 -<a href="https://itou332.github.io/today/">4項目</a>
 -<a href="https://itou332.github.io/challenge/">5項目</a>
 -<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
+</p>
 
 <svg xmlns="http://www.w3.org/2000/svg" width="200" height="250">
                 <text x="0" y="30" transform="rotate(45 40,40)">
