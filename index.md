@@ -51,7 +51,7 @@ lang: ja_JP
 <meta name="keywords" content="記録,My painting ,diary,3項">
 {% seo %}
 <meta name="google-site-verification" content="tQGwmktjW1w-gKuPF7mYbIZdiE9Bw_KZj8tHcro6qo0" />
-</hade>
+</head>
 <body>
 <hr>
 <h2>-絵を記録します。</h2>
