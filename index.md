@@ -2666,12 +2666,12 @@ lang: ja_JP
     <figcaption>日本語/jp</figcaption>
     <audio
         controls
-        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/9_24_jp.wav">
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/re_9_24_jp.wav">
     </audio>
     <figcaption>en/英語</figcaption>
       <audio
         controls
-        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/9_24_en-2.wav">
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/re_9_24_en.wav">
     </audio>
 </figure>
 </details>
@@ -4049,12 +4049,12 @@ lang: ja_JP
     <figcaption>日本語/jp</figcaption>
     <audio
         controls
-        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/9_26_jp.wav">
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/re_9_26_jp.wav">
     </audio>
     <figcaption>en/英語</figcaption>
       <audio
         controls
-        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/9_26_en.wav
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/re_9_26_en.wav
 ">
     </audio>
 </figure>
@@ -19463,12 +19463,12 @@ xS9+8S+L//0f/+vf/h/r2/mFKz0jGAAAAABJRU5ErkJggg==
     <figcaption>日本語/jp</figcaption>
     <audio
         controls
-        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/3_10_2.wav">
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/br1_jp.wav">
     </audio>
     <figcaption>en/英語</figcaption>
       <audio
         controls
-        src="">
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/3_br_1.wav">
     </audio>
 </figure>
 </details>
