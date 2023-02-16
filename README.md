@@ -2,9 +2,10 @@
 
 [![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/itou332diary)
 
-
+<abbr title="sitemenu 献立 項目">
   <nav aria-label="サイト内メニュー">
  *献立
+ </abbr>
     -<a href="https://itou332.github.io/top_page/">主項</a>
     -<a href="https://itou332.github.io/">1項</a>
     -<a href="https://itou332.github.io/itou332a.github.io/">2項</a>
