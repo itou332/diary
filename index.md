@@ -20399,6 +20399,6 @@ xS9+8S+L//0f/+vf/h/r2/mFKz0jGAAAAABJRU5ErkJggg==
        </nav>
 <svg xmlns="http://www.w3.org/2000/svg" width="200" height="250">
                 <text x="0" y="30" transform="rotate(45 40,40)">
-                  © 2022 itou Inc.
+                  © 2023 itou Inc.
                 </text>
 </footer>
